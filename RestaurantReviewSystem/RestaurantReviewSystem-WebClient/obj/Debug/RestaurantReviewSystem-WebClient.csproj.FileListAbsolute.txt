@@ -1,0 +1,118 @@
+H:\Sem 6 Drive\SOC\Restaurant Review System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\bin\RestaurantReviewSystem-WebClient.dll.config
+H:\Sem 6 Drive\SOC\Restaurant Review System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\bin\RestaurantReviewSystem-WebClient.dll
+H:\Sem 6 Drive\SOC\Restaurant Review System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\bin\RestaurantReviewSystem-WebClient.pdb
+H:\Sem 6 Drive\SOC\Restaurant Review System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\bin\roslyn\csc.exe
+H:\Sem 6 Drive\SOC\Restaurant Review System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\bin\roslyn\csc.exe.config
+H:\Sem 6 Drive\SOC\Restaurant Review System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\bin\roslyn\csc.rsp
+H:\Sem 6 Drive\SOC\Restaurant Review System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\bin\roslyn\csi.exe
+H:\Sem 6 Drive\SOC\Restaurant Review System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\bin\roslyn\csi.exe.config
+H:\Sem 6 Drive\SOC\Restaurant Review System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\bin\roslyn\csi.rsp
+H:\Sem 6 Drive\SOC\Restaurant Review System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\Sem 6 Drive\SOC\Restaurant Review System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\Sem 6 Drive\SOC\Restaurant Review System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\Sem 6 Drive\SOC\Restaurant Review System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\Sem 6 Drive\SOC\Restaurant Review System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\Sem 6 Drive\SOC\Restaurant Review System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\Sem 6 Drive\SOC\Restaurant Review System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\Sem 6 Drive\SOC\Restaurant Review System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\Sem 6 Drive\SOC\Restaurant Review System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\Sem 6 Drive\SOC\Restaurant Review System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\bin\roslyn\Microsoft.Managed.Core.targets
+H:\Sem 6 Drive\SOC\Restaurant Review System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\Sem 6 Drive\SOC\Restaurant Review System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\bin\roslyn\Microsoft.Win32.Primitives.dll
+H:\Sem 6 Drive\SOC\Restaurant Review System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\bin\roslyn\System.AppContext.dll
+H:\Sem 6 Drive\SOC\Restaurant Review System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\bin\roslyn\System.Collections.Immutable.dll
+H:\Sem 6 Drive\SOC\Restaurant Review System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\bin\roslyn\System.Console.dll
+H:\Sem 6 Drive\SOC\Restaurant Review System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+H:\Sem 6 Drive\SOC\Restaurant Review System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\Sem 6 Drive\SOC\Restaurant Review System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\Sem 6 Drive\SOC\Restaurant Review System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\bin\roslyn\System.Globalization.Calendars.dll
+H:\Sem 6 Drive\SOC\Restaurant Review System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\bin\roslyn\System.IO.Compression.dll
+H:\Sem 6 Drive\SOC\Restaurant Review System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\bin\roslyn\System.IO.Compression.ZipFile.dll
+H:\Sem 6 Drive\SOC\Restaurant Review System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\bin\roslyn\System.IO.FileSystem.dll
+H:\Sem 6 Drive\SOC\Restaurant Review System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\Sem 6 Drive\SOC\Restaurant Review System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\bin\roslyn\System.Net.Http.dll
+H:\Sem 6 Drive\SOC\Restaurant Review System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\bin\roslyn\System.Net.Sockets.dll
+H:\Sem 6 Drive\SOC\Restaurant Review System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\bin\roslyn\System.Reflection.Metadata.dll
+H:\Sem 6 Drive\SOC\Restaurant Review System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+H:\Sem 6 Drive\SOC\Restaurant Review System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\Sem 6 Drive\SOC\Restaurant Review System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\Sem 6 Drive\SOC\Restaurant Review System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\Sem 6 Drive\SOC\Restaurant Review System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\Sem 6 Drive\SOC\Restaurant Review System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\Sem 6 Drive\SOC\Restaurant Review System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\bin\roslyn\System.Threading.Tasks.Extensions.dll
+H:\Sem 6 Drive\SOC\Restaurant Review System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\bin\roslyn\System.ValueTuple.dll
+H:\Sem 6 Drive\SOC\Restaurant Review System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\Sem 6 Drive\SOC\Restaurant Review System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\bin\roslyn\System.Xml.XmlDocument.dll
+H:\Sem 6 Drive\SOC\Restaurant Review System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\bin\roslyn\System.Xml.XPath.dll
+H:\Sem 6 Drive\SOC\Restaurant Review System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\Sem 6 Drive\SOC\Restaurant Review System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\bin\roslyn\vbc.exe
+H:\Sem 6 Drive\SOC\Restaurant Review System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\bin\roslyn\vbc.exe.config
+H:\Sem 6 Drive\SOC\Restaurant Review System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\bin\roslyn\vbc.rsp
+H:\Sem 6 Drive\SOC\Restaurant Review System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\bin\roslyn\VBCSCompiler.exe
+H:\Sem 6 Drive\SOC\Restaurant Review System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\bin\roslyn\VBCSCompiler.exe.config
+H:\Sem 6 Drive\SOC\Restaurant Review System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\Sem 6 Drive\SOC\Restaurant Review System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\Sem 6 Drive\SOC\Restaurant Review System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\obj\Debug\RestaurantReviewSystem-WebClient.csprojAssemblyReference.cache
+H:\Sem 6 Drive\SOC\Restaurant Review System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\obj\Debug\RestaurantReviewSystem-WebClient.csproj.CoreCompileInputs.cache
+H:\Sem 6 Drive\SOC\Restaurant Review System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\obj\Debug\RestaurantReviewSystem-WebClient.csproj.CopyComplete
+H:\Sem 6 Drive\SOC\Restaurant Review System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\obj\Debug\RestaurantReviewSystem-WebClient.dll
+H:\Sem 6 Drive\SOC\Restaurant Review System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\obj\Debug\RestaurantReviewSystem-WebClient.pdb
+C:\Users\DeLL\Desktop\soc\WCF_Resturant_Review_System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\bin\RestaurantReviewSystem-WebClient.dll.config
+C:\Users\DeLL\Desktop\soc\WCF_Resturant_Review_System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\bin\RestaurantReviewSystem-WebClient.dll
+C:\Users\DeLL\Desktop\soc\WCF_Resturant_Review_System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\bin\RestaurantReviewSystem-WebClient.pdb
+C:\Users\DeLL\Desktop\soc\WCF_Resturant_Review_System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\bin\roslyn\csc.exe
+C:\Users\DeLL\Desktop\soc\WCF_Resturant_Review_System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\bin\roslyn\csc.exe.config
+C:\Users\DeLL\Desktop\soc\WCF_Resturant_Review_System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\bin\roslyn\csc.rsp
+C:\Users\DeLL\Desktop\soc\WCF_Resturant_Review_System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\bin\roslyn\csi.exe
+C:\Users\DeLL\Desktop\soc\WCF_Resturant_Review_System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\bin\roslyn\csi.exe.config
+C:\Users\DeLL\Desktop\soc\WCF_Resturant_Review_System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\bin\roslyn\csi.rsp
+C:\Users\DeLL\Desktop\soc\WCF_Resturant_Review_System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DeLL\Desktop\soc\WCF_Resturant_Review_System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DeLL\Desktop\soc\WCF_Resturant_Review_System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\DeLL\Desktop\soc\WCF_Resturant_Review_System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DeLL\Desktop\soc\WCF_Resturant_Review_System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\DeLL\Desktop\soc\WCF_Resturant_Review_System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DeLL\Desktop\soc\WCF_Resturant_Review_System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DeLL\Desktop\soc\WCF_Resturant_Review_System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\DeLL\Desktop\soc\WCF_Resturant_Review_System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\DeLL\Desktop\soc\WCF_Resturant_Review_System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\DeLL\Desktop\soc\WCF_Resturant_Review_System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DeLL\Desktop\soc\WCF_Resturant_Review_System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\DeLL\Desktop\soc\WCF_Resturant_Review_System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\bin\roslyn\System.AppContext.dll
+C:\Users\DeLL\Desktop\soc\WCF_Resturant_Review_System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DeLL\Desktop\soc\WCF_Resturant_Review_System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\bin\roslyn\System.Console.dll
+C:\Users\DeLL\Desktop\soc\WCF_Resturant_Review_System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DeLL\Desktop\soc\WCF_Resturant_Review_System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\DeLL\Desktop\soc\WCF_Resturant_Review_System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\DeLL\Desktop\soc\WCF_Resturant_Review_System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\DeLL\Desktop\soc\WCF_Resturant_Review_System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\bin\roslyn\System.IO.Compression.dll
+C:\Users\DeLL\Desktop\soc\WCF_Resturant_Review_System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\DeLL\Desktop\soc\WCF_Resturant_Review_System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\DeLL\Desktop\soc\WCF_Resturant_Review_System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\DeLL\Desktop\soc\WCF_Resturant_Review_System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\bin\roslyn\System.Net.Http.dll
+C:\Users\DeLL\Desktop\soc\WCF_Resturant_Review_System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\bin\roslyn\System.Net.Sockets.dll
+C:\Users\DeLL\Desktop\soc\WCF_Resturant_Review_System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DeLL\Desktop\soc\WCF_Resturant_Review_System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\DeLL\Desktop\soc\WCF_Resturant_Review_System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\DeLL\Desktop\soc\WCF_Resturant_Review_System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\DeLL\Desktop\soc\WCF_Resturant_Review_System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\DeLL\Desktop\soc\WCF_Resturant_Review_System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\DeLL\Desktop\soc\WCF_Resturant_Review_System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\DeLL\Desktop\soc\WCF_Resturant_Review_System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\DeLL\Desktop\soc\WCF_Resturant_Review_System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\bin\roslyn\System.ValueTuple.dll
+C:\Users\DeLL\Desktop\soc\WCF_Resturant_Review_System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\DeLL\Desktop\soc\WCF_Resturant_Review_System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\DeLL\Desktop\soc\WCF_Resturant_Review_System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\bin\roslyn\System.Xml.XPath.dll
+C:\Users\DeLL\Desktop\soc\WCF_Resturant_Review_System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\DeLL\Desktop\soc\WCF_Resturant_Review_System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\bin\roslyn\vbc.exe
+C:\Users\DeLL\Desktop\soc\WCF_Resturant_Review_System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\bin\roslyn\vbc.exe.config
+C:\Users\DeLL\Desktop\soc\WCF_Resturant_Review_System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\bin\roslyn\vbc.rsp
+C:\Users\DeLL\Desktop\soc\WCF_Resturant_Review_System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\bin\roslyn\VBCSCompiler.exe
+C:\Users\DeLL\Desktop\soc\WCF_Resturant_Review_System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DeLL\Desktop\soc\WCF_Resturant_Review_System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DeLL\Desktop\soc\WCF_Resturant_Review_System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DeLL\Desktop\soc\WCF_Resturant_Review_System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\obj\Debug\RestaurantReviewSystem-WebClient.csproj.AssemblyReference.cache
+C:\Users\DeLL\Desktop\soc\WCF_Resturant_Review_System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\obj\Debug\RestaurantReviewSystem-WebClient.csproj.CoreCompileInputs.cache
+C:\Users\DeLL\Desktop\soc\WCF_Resturant_Review_System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\obj\Debug\RestaurantReviewSystem-WebClient.csproj.CopyComplete
+C:\Users\DeLL\Desktop\soc\WCF_Resturant_Review_System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\obj\Debug\RestaurantReviewSystem-WebClient.dll
+C:\Users\DeLL\Desktop\soc\WCF_Resturant_Review_System\RestaurantReviewSystem\RestaurantReviewSystem-WebClient\obj\Debug\RestaurantReviewSystem-WebClient.pdb

@@ -1,0 +1,28 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Runtime.Serialization;
+using System.ServiceModel;
+using System.Text;
+using RestaurantReviewSystem.Model;
+
+namespace RestaurantReviewSystem
+{
+    // NOTE: You can use the "Rename" command on the "Refactor" menu to change the interface name "IRestaurantService" in both code and config file together.
+    [ServiceContract(Name="IRestaurantService")]
+    public interface IRestaurantService
+    {
+        [OperationContract]
+        void RegisterUser(Customer user);
+
+        [OperationContract]
+        int SignInUser(string username, string password);
+
+        [OperationContract]
+        void AddRestaurant(Restaurant restaurant);
+
+        bool DeleteRestaurant(int id);
+
+
+    }
+}

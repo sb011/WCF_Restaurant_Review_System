@@ -1,0 +1,14 @@
+H:\Sem 6 Drive\SOC\Restaurant Review System\RestaurantReviewSystem\RestaurantReviewSystem\bin\Debug\RestaurantReviewSystem.dll.config
+H:\Sem 6 Drive\SOC\Restaurant Review System\RestaurantReviewSystem\RestaurantReviewSystem\bin\Debug\RestaurantReviewSystem.dll
+H:\Sem 6 Drive\SOC\Restaurant Review System\RestaurantReviewSystem\RestaurantReviewSystem\bin\Debug\RestaurantReviewSystem.pdb
+H:\Sem 6 Drive\SOC\Restaurant Review System\RestaurantReviewSystem\RestaurantReviewSystem\obj\Debug\RestaurantReviewSystem.csproj.CoreCompileInputs.cache
+H:\Sem 6 Drive\SOC\Restaurant Review System\RestaurantReviewSystem\RestaurantReviewSystem\obj\Debug\RestaurantReviewSystem.dll
+H:\Sem 6 Drive\SOC\Restaurant Review System\RestaurantReviewSystem\RestaurantReviewSystem\obj\Debug\RestaurantReviewSystem.pdb
+H:\Sem 6 Drive\SOC\Restaurant Review System\RestaurantReviewSystem\RestaurantReviewSystem\obj\Debug\RestaurantReviewSystem.csprojAssemblyReference.cache
+C:\Users\DeLL\Desktop\soc\WCF_Resturant_Review_System\RestaurantReviewSystem\RestaurantReviewSystem\bin\Debug\RestaurantReviewSystem.dll.config
+C:\Users\DeLL\Desktop\soc\WCF_Resturant_Review_System\RestaurantReviewSystem\RestaurantReviewSystem\bin\Debug\RestaurantReviewSystem.dll
+C:\Users\DeLL\Desktop\soc\WCF_Resturant_Review_System\RestaurantReviewSystem\RestaurantReviewSystem\bin\Debug\RestaurantReviewSystem.pdb
+C:\Users\DeLL\Desktop\soc\WCF_Resturant_Review_System\RestaurantReviewSystem\RestaurantReviewSystem\obj\Debug\RestaurantReviewSystem.csproj.AssemblyReference.cache
+C:\Users\DeLL\Desktop\soc\WCF_Resturant_Review_System\RestaurantReviewSystem\RestaurantReviewSystem\obj\Debug\RestaurantReviewSystem.csproj.CoreCompileInputs.cache
+C:\Users\DeLL\Desktop\soc\WCF_Resturant_Review_System\RestaurantReviewSystem\RestaurantReviewSystem\obj\Debug\RestaurantReviewSystem.dll
+C:\Users\DeLL\Desktop\soc\WCF_Resturant_Review_System\RestaurantReviewSystem\RestaurantReviewSystem\obj\Debug\RestaurantReviewSystem.pdb

@@ -1,0 +1,22 @@
+H:\Sem 6 Drive\SOC\Restaurant Review System\RestaurantReviewSystem\RestaurantReviewHost\bin\Debug\RestaurantReviewHost.exe.config
+H:\Sem 6 Drive\SOC\Restaurant Review System\RestaurantReviewSystem\RestaurantReviewHost\bin\Debug\RestaurantReviewHost.exe
+H:\Sem 6 Drive\SOC\Restaurant Review System\RestaurantReviewSystem\RestaurantReviewHost\bin\Debug\RestaurantReviewHost.pdb
+H:\Sem 6 Drive\SOC\Restaurant Review System\RestaurantReviewSystem\RestaurantReviewHost\bin\Debug\RestaurantReviewSystem.dll
+H:\Sem 6 Drive\SOC\Restaurant Review System\RestaurantReviewSystem\RestaurantReviewHost\bin\Debug\RestaurantReviewSystem.pdb
+H:\Sem 6 Drive\SOC\Restaurant Review System\RestaurantReviewSystem\RestaurantReviewHost\bin\Debug\RestaurantReviewSystem.dll.config
+H:\Sem 6 Drive\SOC\Restaurant Review System\RestaurantReviewSystem\RestaurantReviewHost\obj\Debug\RestaurantReviewHost.csproj.CoreCompileInputs.cache
+H:\Sem 6 Drive\SOC\Restaurant Review System\RestaurantReviewSystem\RestaurantReviewHost\obj\Debug\RestaurantReviewHost.csproj.CopyComplete
+H:\Sem 6 Drive\SOC\Restaurant Review System\RestaurantReviewSystem\RestaurantReviewHost\obj\Debug\RestaurantReviewHost.exe
+H:\Sem 6 Drive\SOC\Restaurant Review System\RestaurantReviewSystem\RestaurantReviewHost\obj\Debug\RestaurantReviewHost.pdb
+H:\Sem 6 Drive\SOC\Restaurant Review System\RestaurantReviewSystem\RestaurantReviewHost\obj\Debug\RestaurantReviewHost.csprojAssemblyReference.cache
+C:\Users\DeLL\Desktop\soc\WCF_Resturant_Review_System\RestaurantReviewSystem\RestaurantReviewHost\bin\Debug\RestaurantReviewHost.exe.config
+C:\Users\DeLL\Desktop\soc\WCF_Resturant_Review_System\RestaurantReviewSystem\RestaurantReviewHost\bin\Debug\RestaurantReviewHost.exe
+C:\Users\DeLL\Desktop\soc\WCF_Resturant_Review_System\RestaurantReviewSystem\RestaurantReviewHost\bin\Debug\RestaurantReviewHost.pdb
+C:\Users\DeLL\Desktop\soc\WCF_Resturant_Review_System\RestaurantReviewSystem\RestaurantReviewHost\bin\Debug\RestaurantReviewSystem.dll
+C:\Users\DeLL\Desktop\soc\WCF_Resturant_Review_System\RestaurantReviewSystem\RestaurantReviewHost\bin\Debug\RestaurantReviewSystem.pdb
+C:\Users\DeLL\Desktop\soc\WCF_Resturant_Review_System\RestaurantReviewSystem\RestaurantReviewHost\bin\Debug\RestaurantReviewSystem.dll.config
+C:\Users\DeLL\Desktop\soc\WCF_Resturant_Review_System\RestaurantReviewSystem\RestaurantReviewHost\obj\Debug\RestaurantReviewHost.csproj.AssemblyReference.cache
+C:\Users\DeLL\Desktop\soc\WCF_Resturant_Review_System\RestaurantReviewSystem\RestaurantReviewHost\obj\Debug\RestaurantReviewHost.csproj.CoreCompileInputs.cache
+C:\Users\DeLL\Desktop\soc\WCF_Resturant_Review_System\RestaurantReviewSystem\RestaurantReviewHost\obj\Debug\RestaurantReviewHost.csproj.CopyComplete
+C:\Users\DeLL\Desktop\soc\WCF_Resturant_Review_System\RestaurantReviewSystem\RestaurantReviewHost\obj\Debug\RestaurantReviewHost.exe
+C:\Users\DeLL\Desktop\soc\WCF_Resturant_Review_System\RestaurantReviewSystem\RestaurantReviewHost\obj\Debug\RestaurantReviewHost.pdb
